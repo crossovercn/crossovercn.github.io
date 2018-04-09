@@ -1,3 +1,4 @@
 name: Crossover China
 markdown: kramdown
 theme: jekyll-theme-modernist
+timezone: Asia/Shanghai
