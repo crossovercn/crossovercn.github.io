@@ -1,4 +1,5 @@
-name: Crossover China
+title: Crossover China Blog
+description: 国内招聘资讯
 markdown: kramdown
 theme: jekyll-theme-modernist
 timezone: Asia/Shanghai
